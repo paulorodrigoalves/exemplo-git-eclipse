@@ -6,6 +6,7 @@ public class ExemploGit {
 		
 		System.out.println("Olá Git!");
 		System.out.println("Alterando arquivo!");
+		System.out.println("Alterado do Eclipse!");
 	}
 
 }
